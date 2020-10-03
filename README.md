@@ -1,4 +1,4 @@
-### Assignment
+### Data Science Project - Medical Data Visualizer
 
 In this project, you will visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.
 
@@ -41,16 +41,11 @@ Use the data to complete the following tasks in `medical_data_visualizer.py`:
 
 Any time a variable is set to 'None', make sure to set it to the correct code.
 
-Unit tests are written for you under `test_module.py`.
-
-### Development
-
-For development, you can use `main.py` to test your functions. Click the "run" button and `main.py` will run.
 
 ### Testing 
 
-We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
+The unit tests for this project are in `test_module.py`. The tests will run automatically whenever `main.py` gets executed.
 
-### Submitting
+### Note
 
-Copy your project's URL and submit it to freeCodeCamp.
+This project is done under Freecodecamp's Data Analysis with Python Certification.
